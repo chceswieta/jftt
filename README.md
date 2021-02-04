@@ -9,5 +9,5 @@ Zadania zrealizowane podczas kursu Języki formalne i teoria translacji na WPPT,
 - kalkulator odwrotnej notacji polskiej napisany we Flexie
 
 ### Lista 3
-- kalkulator nad ciałem $\mathbb{Z}_{1234577}$ napisany w Bisonie i w Pythonie z pakietem PLY
+- kalkulator nad ciałem Z<sub>1234577</sub> napisany w Bisonie i w Pythonie z pakietem PLY
 

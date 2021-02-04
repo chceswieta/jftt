@@ -2,7 +2,7 @@
 
 **Ważna uwaga:** nie do końca wiedziałem, jak rozpracować unarny minus w drukowaniu RPN, kiedy jest stosowany na całe wyrażenie, a nie tylko liczbę.
 Przyjęta została zatem konwencja:
-- `-number` to w RPN odpowiednia wartość z $\mathbb{Z}_p$
+- `-number` to w RPN odpowiednia wartość z Z<sub>p</sub>
 - `-(expression)` to w RPN `expression ~`
 
 W szczególności:
